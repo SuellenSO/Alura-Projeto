@@ -6,7 +6,8 @@ body {
     font-family: 'Silkscreen', sans-serif;
     font-weight: 300;
     font-style: normal;
-    background-image: url(/imagens/back.jpg) black;
+    background-image: url(/Alura-Projeto/imagens/back.jpg);
+    background-color: #000000;
     margin: 0;
     padding: 0;
     display: flex;
