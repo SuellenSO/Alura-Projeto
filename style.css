@@ -6,7 +6,7 @@ body {
     font-family: 'Silkscreen', sans-serif;
     font-weight: 300;
     font-style: normal;
-    background-image: url(/imagens/back.jpg);
+    background-image: url(/imagens/back.jpg) black;
     margin: 0;
     padding: 0;
     display: flex;
