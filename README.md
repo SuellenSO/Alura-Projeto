@@ -1,6 +1,6 @@
 # Mente Brilhante - Jogo de Quiz de Programação
 Mente Brilhante é um jogo de quiz interativo onde você pode testar seus conhecimentos sobre HTML, CSS, JavaScript e outros tópicos relacionados à programação. O objetivo do jogo é responder corretamente às perguntas e avançar no quiz até completar todas as questões. Este jogo foi desenvolvido a partir do curso de Imersão da #Alura com #Gemini. O principio do curso era apresentar uma página simples onde o JS ficasse responsável por apresentar os dados na tela conforme uma solicitação simples do usuário, aprimorando esta idéia, surgiu o Mente Brilhante!
-# Como acessar; 
+# Como acessar: [https://suellenso.github.io/Alura-Projeto/](https://suellenso.github.io/Alura-Projeto/)
 # Funcionalidades
 - Exibição de uma pergunta por vez.
 - Verificação instantânea das respostas.
